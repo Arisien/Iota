@@ -1,0 +1,25 @@
+{
+  "name": "iota",
+  "version": "1.0.0",
+  "description": "youtube cli",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arisien/Iota.git"
+  },
+  "keywords": [
+    "yt",
+    "youtube",
+    "cli",
+    "music"
+  ],
+  "author": "Arisien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arisien/Iota/issues"
+  },
+  "homepage": "https://github.com/Arisien/Iota#readme"
+}
